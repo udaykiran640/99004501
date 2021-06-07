@@ -26,6 +26,7 @@
 ![entering_ps_num](screen_shots/step0.png)
 
 #### The moment the user enters a valid a PS Number it asks to select the sheet out of 5 sheets that are available.
+#### User can enter the number associated with the sheet.
 ![entering_sheet](screen_shots/step1.png)
 
 #### Then it retrieves the data from "project.xlsx" in "xlsx_file" folder, prints it and writes the retrieved data into "result.xlsx"
